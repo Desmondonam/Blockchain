@@ -47,7 +47,7 @@ forge --version
 anvil --version
 ```
 
-This course was tested with **forge 1.5.1** and **solc 0.8.24**.
+This course was tested with **forge 1.5.1** and **solc 0.8.28**.
 
 ## Week 10+: Node.js
 
