@@ -1,0 +1,5 @@
+pytest==9.0.3
+pytest-cov==7.1.0
+hypothesis==6.165.10
+cryptography==46.0.7
+pycryptodome==3.23.0
