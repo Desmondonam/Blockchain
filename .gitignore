@@ -39,3 +39,6 @@ logs/
 .DS_Store
 Thumbs.db
 .idea/
+
+# Local-chain deployment manifests are throwaway; testnet/mainnet manifests ARE committed.
+**/deployments/31337.json
