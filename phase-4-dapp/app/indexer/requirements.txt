@@ -1,0 +1,6 @@
+# Runtime dependencies, pinned exactly for reproducible installs.
+fastapi==0.115.14
+uvicorn==0.32.1
+web3==7.6.1
+cryptography==46.0.7
+python-multipart==0.0.20
